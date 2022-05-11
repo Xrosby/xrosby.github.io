@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.990ae178.css",
+    "main.js": "/static/js/main.fbf6d658.js",
+    "static/js/787.30237536.chunk.js": "/static/js/787.30237536.chunk.js",
+    "static/media/bandim.png": "/static/media/bandim.e633ada12c2ad579e7df.png",
+    "static/media/react.png": "/static/media/react.8a6fc0a24a800d1e0f4a.png",
+    "static/media/github.png": "/static/media/github.1c95b85d86a7c25b6f3c.png",
+    "static/media/google-cloud.png": "/static/media/google-cloud.4cc74a54584da3d09d6d.png",
+    "static/media/node.png": "/static/media/node.c2e22c634a7336cbe298.png",
+    "static/media/python.png": "/static/media/python.2e65c2b73eddaaf97e06.png",
+    "static/media/sdu.png": "/static/media/sdu.b7e0d024c738469235f3.png",
+    "static/media/ts.png": "/static/media/ts.c4105801aadf2606ac30.png",
+    "static/media/js.png": "/static/media/js.7f8751632b42a9932c15.png",
+    "static/media/linked.png": "/static/media/linked.7a5eab93c7daf7d2ceeb.png",
+    "static/media/logo-welld.png": "/static/media/logo-welld.a8fd644394138bf6bf62.png",
+    "static/media/cypress.png": "/static/media/cypress.b5cb01ca2412d6a2ecd0.png",
+    "index.html": "/index.html",
+    "main.990ae178.css.map": "/static/css/main.990ae178.css.map",
+    "main.fbf6d658.js.map": "/static/js/main.fbf6d658.js.map",
+    "787.30237536.chunk.js.map": "/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.990ae178.css",
+    "static/js/main.fbf6d658.js"
+  ]
+}
